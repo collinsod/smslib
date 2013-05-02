@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="java"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="D:/workspace/smslib/lib/commons-net-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/smslib/lib/jsmpp-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/smslib/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/smslib/lib/slf4j-api-1.6.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/smslib/lib/slf4j-log4j12-1.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_21/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_21/jre/lib/ext/comm.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
